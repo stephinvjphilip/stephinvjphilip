@@ -16,7 +16,7 @@ My first machine learning project, using Python and Scikit-learn to predict hous
 - Evaluated predictions using Mean Absolute Error (MAE) and cross-validation
 - Investigated feature importance and prediction errors
 
-🔗 **[View my House Price Prediction project]([https://github.com/stephinvjphilip/house-price-prediction])**
+🔗 **[View my House Price Prediction project](https://github.com/stephinvjphilip/house-price-prediction)**
 
 ## 🛠️ Tools and Technologies
 
