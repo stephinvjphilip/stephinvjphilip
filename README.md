@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Stephin V J 👋
 
-<!--
-**stephinvjphilip/stephinvjphilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science graduate building practical skills in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+I enjoy learning by building projects, experimenting with models, and understanding how data can be used to make predictions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### House Price Prediction
+
+My first machine learning project, using Python and Scikit-learn to predict house sale prices.
+
+- Explored and cleaned the dataset
+- Handled missing values and encoded categorical features
+- Trained a Random Forest regression model
+- Evaluated predictions using Mean Absolute Error (MAE) and cross-validation
+- Investigated feature importance and prediction errors
+
+🔗 **[View my House Price Prediction project]([https://github.com/stephinvjphilip/house-price-prediction])**
+
+## 🛠️ Tools and Technologies
+
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+- Visual Studio Code
+
+## 📚 Currently Learning
+
+- Machine Learning and model evaluation
+- Practical AI applications
+- Building and improving end-to-end ML projects
+
+## 🎯 My Goal
+
+To build practical AI skills through hands-on projects and continue growing as an AI and Machine Learning professional.
+
+Thanks for visiting my profile! 😊
